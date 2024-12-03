@@ -1,0 +1,4 @@
+D:\BankApp\BankApp\bin\BankApp.dll
+D:\BankApp\BankApp\bin\BankApp.pdb
+D:\BankApp\BankApp\obj\Debug\BankApp.dll
+D:\BankApp\BankApp\obj\Debug\BankApp.pdb
